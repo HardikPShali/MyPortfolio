@@ -61,7 +61,7 @@ const header = () => {
                 <div className="menu-align">
                     <ul className="list-group menu text-center " id="menu">
                         <li className="list-group-item">
-                            <a href="#home">
+                            <a href="#hero">
                                 <i className="bi bi-house"></i>
                                 <span>home</span>
                             </a>
