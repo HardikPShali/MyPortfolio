@@ -33,7 +33,7 @@ const works = () => {
                         <div className="portfolio-image">
                             <img src="assets/img/Project/HealthierU.png" alt="/" />
                             <div className="portfolio-icon">
-                                <a href="../public/React-Project.html" className="portfolio-magnific mfp-iframe">
+                                <a href="React-Project.html" className="portfolio-magnific mfp-iframe">
                                     <i className="bi bi-file-earmark-text"></i>
                                 </a>
                             </div>
@@ -47,7 +47,7 @@ const works = () => {
                         <div class="portfolio-image">
                             <img src="assets/img/Project/1logo.png" alt="/" />
                             <div class="portfolio-icon">
-                                <a href="../public/DotNet-Project.html" class="portfolio-magnific mfp-iframe">
+                                <a href="DotNet-Project.html" class="portfolio-magnific mfp-iframe">
                                     <i className="bi bi-file-earmark-text"></i>
                                 </a>
                             </div>
@@ -61,7 +61,7 @@ const works = () => {
                         <div class="portfolio-image">
                             <img src="assets/img/Project/logo1.png" alt="/" />
                             <div class="portfolio-icon">
-                                <a href="../PHP-Project.html" class="portfolio-magnific mfp-iframe">
+                                <a href="PHP-Project.html" class="portfolio-magnific mfp-iframe">
                                     <i className="bi bi-file-earmark-text"></i>
                                 </a>
                             </div>
@@ -76,7 +76,7 @@ const works = () => {
                             <div class="portfolio-image">
                                 <img src="assets/img/Project/logo.png" alt="/" />
                                 <div class="portfolio-icon">
-                                    <a href="../public/Java-Project.html" class="portfolio-magnific mfp-iframe">
+                                    <a href="Java-Project.html" class="portfolio-magnific mfp-iframe">
                                         <i class="bi bi-file-earmark-text"></i>
                                     </a>
                                 </div>
