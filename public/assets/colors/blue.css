@@ -224,7 +224,7 @@ header, .right-side {
   color: #fff;
 }
 .portfolio-page-carousel .owl-dot span {
-  background-color: #fff;
+  background-color: #010101;
 }
 .portfolio-page-carousel .owl-dot.active span {
   background-color: #028ac9;

@@ -9,7 +9,7 @@ const home = () => {
                     <div className="row">
                         <div className="col-lg-12 text-center text-lg-start">
                             <div className="hero-image d-inline-block d-lg-none">
-                                <img src="assets/img/webdesigner/profile-img.jpg" alt="/" />
+                                <img src="assets/img/webdesigner/me-header.png" alt="/" />
                             </div>
                             <div className="hero-content mt-4 mx-auto mx-lg-0 text-lg-left mt-lg-none">
                                 <p className="base-color">Software Engineer</p>
@@ -20,17 +20,17 @@ const home = () => {
                 </div>
             </div>
             <div className="hero-footer d-block d-lg-none">
-                <a className="download-cv primary-button mt-3 mb-4 d-lg-none" href="javascript:void(0);">Download CV</a>
+                <a className="download-cv primary-button mt-3 mb-4 d-lg-none" href="resume/Hardik's Resume.pdf" target='_blank'>Download CV</a>
                 <div className="social d-lg-none mb-4 d-block">
-                    <a href="javascript:void(0);" className="d-inline-block">
+                    <a href="https://wa.me/+919724641610" target='_blank' className="d-inline-block">
                         <i className="bi bi-whatsapp t-green"></i>
                     </a>
-                    <a href="javascript:void(0);" className="d-inline-block mx-4">
+                    <a href="https://instagram.com/harddiksali?igshid=ZDdlNDJhZDc=" target='_blank' className="d-inline-block mx-4">
                         <i className="bi bi-instagram t-purple"></i>
                     </a>
-                    <a href="javascript:void(0);" className="d-inline-block">
+                    {/* <a href="javascript:void(0);" className="d-inline-block">
                         <i className="bi bi-dribbble t-red"></i>
-                    </a>
+                    </a> */}
                 </div>
             </div>
         </section>

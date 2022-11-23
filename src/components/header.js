@@ -20,15 +20,15 @@ const header = () => {
                         <span>Follow Me</span>
                     </div>
                     <div className="social d-none d-lg-block">
-                        <a href="javascript:void(0);">
+                        <a href="https://wa.me/+919724641610" target='_blank'>
                             <i className="bi bi-whatsapp t-green"></i>
                         </a>
-                        <a href="javascript:void(0);">
+                        <a href="https://instagram.com/harddiksali?igshid=ZDdlNDJhZDc=" target='_blank'>
                             <i className="bi bi-instagram t-purple"></i>
                         </a>
-                        <a href="javascript:void(0);">
+                        {/* <a href="javascript:void(0);">
                             <i className="bi bi-dribbble t-red"></i>
-                        </a>
+                        </a> */}
                     </div>
                 </div>
                 <div className="next-prev-page">
@@ -46,10 +46,10 @@ const header = () => {
             <div className="left-side  nav-close">
                 <div className="menu-content-align">
                     <div className="left-side-image">
-                        <img src="assets/img/webdesigner/profile-img.jpg" alt="/" />
+                        <img src="assets/img/webdesigner/me-header.png" alt="/" />
                     </div>
                     <h1 className="mt-1">Hardik Shali</h1>
-                    <a className="download-cv primary-button d-none d-lg-inline-block" href="resume/Hardik's Resume.pdf" target='_blank'>Download CV</a>
+                    <a className="download-cv primary-button d-none d-lg-inline-block" href="resume/Hardik's Resume.pdf" target='_blank'>Download Resume</a>
                     <div className="container d-lg-none d-inline-block">
                         <div className="row">
                             <div className="col-12 text-center">
@@ -98,17 +98,17 @@ const header = () => {
                         </li> */}
                     </ul>
                     <div className="menu-footer">
-                        <a className="download-cv primary-button mt-3 mb-4 d-lg-none" href="javascript:void(0);">Download CV</a>
+                        <a className="download-cv primary-button mt-3 mb-4 d-lg-none" href="resume/Hardik's Resume.pdf" target='_blank'>Download CV</a>
                         <div className="social d-lg-none d-block">
-                            <a href="javascript:void(0);" className="d-inline-block">
+                            <a href="https://wa.me/+919724641610" target='_blank' className="d-inline-block">
                                 <i className="bi bi-whatsapp t-green"></i>
                             </a>
-                            <a href="javascript:void(0);" className="d-inline-block mx-4">
+                            <a href="https://instagram.com/harddiksali?igshid=ZDdlNDJhZDc=" target='_blank' className="d-inline-block mx-4">
                                 <i className="bi bi-instagram t-purple"></i>
                             </a>
-                            <a href="javascript:void(0);" className="d-inline-block">
+                            {/* <a href="javascript:void(0);" className="d-inline-block">
                                 <i className="bi bi-dribbble t-red"></i>
-                            </a>
+                            </a> */}
                         </div>
                     </div>
                 </div>

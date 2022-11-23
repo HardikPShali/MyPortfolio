@@ -3,6 +3,8 @@ import Home from './components/home'
 import About from './components/about'
 import Resume from './components/resume';
 import Works from './components/works';
+import MobileDesigns from './components/mobileDesigns';
+import PortfolioPage from './components/portfolio-page';
 import './App.css';
 
 function App() {
@@ -15,6 +17,8 @@ function App() {
         <Resume />
         <Works />
       </main>
+      <MobileDesigns />
+      {/* <PortfolioPage /> */}
     </div>
   );
 }
