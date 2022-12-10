@@ -9,7 +9,7 @@ const about = () => {
                     <div className="row">
                         <div className="col-lg-5">
                             <div className="about-img">
-                                <img src="assets/img/webdesigner/me-img.png" alt="/" />
+                                <img src="assets/img/webdesigner/HardikShali.png" alt="/" />
                                 <div className="border-img"></div>
                             </div>
                         </div>

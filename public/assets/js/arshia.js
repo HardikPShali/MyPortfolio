@@ -338,7 +338,7 @@ function openMenu() {
         'padding-top': '20px'
     }, 700);
     $(".left-side img").animate({
-        width: "180px"
+        width: "165px"
     }, 700);
     $(".left-side h1").animate({
         'font-size': "32px"
